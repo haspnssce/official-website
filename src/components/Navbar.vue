@@ -5,11 +5,11 @@
     </div>
     <nav class="menubar">
       <ul class="menu-wrapper">
-        <li class="menu-items"><a href="/official-website">Home</a></li>
-        <li class="menu-items"><a href="/official-website/about">About</a></li>
-        <li class="menu-items"><a href="/official-website/gallery">Gallery</a></li>
-        <li class="menu-items"><a href="/official-website/projects">Projects</a></li>
-        <li class="menu-items"><a href="/official-website/achievements">Achievements</a></li>
+        <li class="menu-items"><a href="/">Home</a></li>
+        <li class="menu-items"><a href="/about">About</a></li>
+        <li class="menu-items"><a href="/gallery">Gallery</a></li>
+        <li class="menu-items"><a href="/projects">Projects</a></li>
+        <li class="menu-items"><a href="/achievements">Achievements</a></li>
       </ul>
     </nav>
   </div>
