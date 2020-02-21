@@ -7,7 +7,7 @@ Vue.use(Router)
 
 export default new Router({
   mode: 'history',
-  base: '/official-website/',
+  base: process.env.BASE_URL,
   routes: [
     {
       path: '/',
@@ -15,7 +15,7 @@ export default new Router({
       component: Index
     },
     {
-      path: '/',
+      path: '/about',
       name: 'about',
       component: About
     }
