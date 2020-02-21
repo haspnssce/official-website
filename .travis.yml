@@ -4,9 +4,6 @@ node_js:
 
 cache: npm
 
-script: npm run build
-        mv dist/official-website/* dist/
-
 deploy:
  provider: pages
  skip_cleanup: true
