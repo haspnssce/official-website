@@ -15,18 +15,8 @@ export default new Router({
       component: Index
     },
     {
-      path: '/about',
-      name: 'About',
-      component: About
-    },
-    {
-      path: '/official-website',
-      name: 'Index',
-      component: Index
-    },
-    {
-      path: '/official-website/about',
-      name: 'About',
+      path: '/',
+      name: 'about',
       component: About
     }
   ]
