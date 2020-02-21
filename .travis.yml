@@ -4,7 +4,7 @@ node_js:
 
 cache: npm
 
-script: ls
+script: npm run build && mv ./dist/official-website/* ./dist/
 
 deploy:
  provider: pages
